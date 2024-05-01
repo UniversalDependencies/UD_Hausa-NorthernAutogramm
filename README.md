@@ -27,7 +27,7 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 Data available since: UD v2.14
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: grammar-examples
+Genre: spoken
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
