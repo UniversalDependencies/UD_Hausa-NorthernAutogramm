@@ -1,21 +1,20 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
-
+This treebank contains data of Northern Autogramm, for the Ader dialect of Niger Republic (Northern Hausa).
 
 # Introduction
 
-...
+The Ader (Northern) Hausa, together with the Sokoto variety, is a more archaic version of Standard Hausa, where some phonological rules have not applied.
 
+The treebank contains 400 sentences and 3,919 tokens.
+
+It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_Hausa-NorthernAutogramm](https://github.com/surfacesyntacticud/SUD_Hausa-NorthernAutogramm) and converted automatically in UD.
 
 # Acknowledgments
 
-...
-
 ## References
 
-* (citation)
-
+ - Caron, Bernard. 1991. Le haoussa de l’Ader (Sprache und Oralität in Afrika). Vol. 10. Berlin: D. Reimer. https://www.academia.edu/110044586/Caron_1991_Le_haoussa_de_lAder?sm=b.
 
 # Changelog
 
@@ -35,7 +34,7 @@ XPOS: not available
 Features: manual native
 Relations: manual native
 Contributors: Caron, Bernard
-Contributing: here
+Contributing: elsewhere
 Contact: bernard.l.caron@gmail.com
 ===============================================================================
 </pre>
