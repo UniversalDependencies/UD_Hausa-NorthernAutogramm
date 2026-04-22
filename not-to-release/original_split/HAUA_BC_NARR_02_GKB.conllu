@@ -81,7 +81,7 @@
 # text = tôː niː < in nim mânceː ?//
 # text_en = Well me, if I forget?
 1	tôː	tôː	INTJ	_	_	6	discourse	_	AlignBegin=24575|AlignEnd=24764|Gloss=well
-2	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	obl	_	AlignBegin=24764|AlignEnd=24953|Gloss=1Sing.Nom
+2	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	obl:mod	_	AlignBegin=24764|AlignEnd=24953|Gloss=1Sing.Nom
 3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=24953|AlignEnd=25142|Gloss=PUNCT
 4	in	in	SCONJ	_	_	6	mark	_	AlignBegin=25142|AlignEnd=25331|Gloss=if
 5	nim	yaː	AUX	_	Aspect=Perf|Number=Sing|Person=1	6	aux	_	AlignBegin=25331|AlignEnd=25520|Gloss=1Sing.Perf.Rel|Relative=Yes
@@ -147,7 +147,7 @@
 16	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	17	aux	_	AlignBegin=37780|AlignEnd=37983|Gloss=2Masc.Perf
 17	san	san-	VERB	_	_	0	root	_	AlignBegin=37983|AlignEnd=38186|Gloss=know
 18	dà	dà	ADP	_	_	19	case	_	AlignBegin=38186|AlignEnd=38389|Gloss=with
-19	yawàː	yawàː	NOUN	_	Gender=Masc	17	obl	_	AlignBegin=38389|AlignEnd=38592|Gloss=quantity.Masc
+19	yawàː	yawàː	NOUN	_	Gender=Masc	17	obl:mod	_	AlignBegin=38389|AlignEnd=38592|Gloss=quantity.Masc
 20	//	//	PUNCT	_	_	17	punct	_	AlignBegin=38592|AlignEnd=38802|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_02_GKB_09
@@ -790,7 +790,7 @@
 1	zàkaràː	zàkaràː	NOUN	_	Gender=Masc	6	dislocated	_	AlignBegin=175780|AlignEnd=176303|Gloss=cock.Masc
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=176303|AlignEnd=176826|Gloss=PUNCT
 3	wàːtôː	wàːtôː	INTJ	_	_	6	discourse	_	AlignBegin=176826|AlignEnd=177349|Gloss=that_is
-4	zàkaràː	zàkaràː	NOUN	_	Gender=Masc	6	obl	_	AlignBegin=177349|AlignEnd=177872|Gloss=cock.Masc
+4	zàkaràː	zàkaràː	NOUN	_	Gender=Masc	6	obl:mod	_	AlignBegin=177349|AlignEnd=177872|Gloss=cock.Masc
 5	yaz	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	6	aux	_	AlignBegin=177872|AlignEnd=178395|Gloss=3Masc.Perf.Rel|Relative=Yes
 6	zakà	zak-	VERB	_	_	0	root	_	AlignBegin=178395|AlignEnd=178918|Gloss=arrive
 7	|c	|c	PUNCT	_	_	9	punct	_	AlignBegin=178918|AlignEnd=179441|Gloss=PUNCT
@@ -808,7 +808,7 @@
 # text = sai kàram ɓiki yac cêː mà zàkaràː [ mun isoː //= kaː zakà ?//] //
 # text_en = Then Jackal told Cock " Here we are, are you ready?"
 1	sai	sai	ADV	_	_	5	advmod	_	AlignBegin=182607|AlignEnd=182972|Gloss=until
-2	kàram	kàreː	NOUN	_	Definite=Cons|Gender=Masc	5	obl	_	AlignBegin=182972|AlignEnd=183337|Gloss=dog.Masc.Cons
+2	kàram	kàreː	NOUN	_	Definite=Cons|Gender=Masc	5	obl:mod	_	AlignBegin=182972|AlignEnd=183337|Gloss=dog.Masc.Cons
 3	ɓiki	ɓiki	NOUN	_	Gender=Masc	2	compound	_	AlignBegin=183337|AlignEnd=183702|Gloss=shit.Masc
 4	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	aux	_	AlignBegin=183702|AlignEnd=184067|Gloss=3Masc.Perf.Rel|Relative=Yes
 5	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=184067|AlignEnd=184432|Gloss=say
@@ -1281,7 +1281,7 @@
 # text_ortho = kàram ɓiki yac c’eːrèː //
 # text = kàram ɓiki yac c’eːrèː //
 # text_en = Jackal ran away.
-1	kàram	kàreː	NOUN	_	Definite=Cons|Gender=Masc	4	obl	_	AlignBegin=268415|AlignEnd=268556|Gloss=dog.Masc.Cons
+1	kàram	kàreː	NOUN	_	Definite=Cons|Gender=Masc	4	obl:mod	_	AlignBegin=268415|AlignEnd=268556|Gloss=dog.Masc.Cons
 2	ɓiki	ɓiki	NOUN	_	Gender=Masc	1	compound	_	AlignBegin=268556|AlignEnd=268697|Gloss=shit.Masc
 3	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	aux	_	AlignBegin=268697|AlignEnd=268838|Gloss=3Masc.Perf.Rel|Relative=Yes
 4	c’eːrèː	c’eːr-	VERB	_	_	0	root	_	AlignBegin=268838|AlignEnd=268979|Gloss=escape

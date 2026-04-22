@@ -151,7 +151,7 @@
 1	à	yà	AUX	_	Mood=Sub|Person=4	2	aux	_	AlignBegin=42940|AlignEnd=43722|Gloss=4.Sub
 2	baː	baː	VERB	_	_	0	root	_	AlignBegin=43722|AlignEnd=44504|Gloss=give
 3	sù	su	PRON	_	Number=Plur|Person=3|PronType=Prs	2	iobj	_	AlignBegin=44504|AlignEnd=45286|Gloss=3Plur
-4	taːsù	taːsù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	5	nmod	_	AlignBegin=45286|AlignEnd=46068|Gloss=3Plur.Gen
+4	taːsù	taːsù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	5	nmod:poss	_	AlignBegin=45286|AlignEnd=46068|Gloss=3Plur.Gen
 5	takàrdaː	takàrdaː	NOUN	_	_	2	obj	_	AlignBegin=46068|AlignEnd=46850|Gloss=paper
 6	|c	|c	PUNCT	_	_	8	punct	_	AlignBegin=46850|AlignEnd=47632|Gloss=PUNCT
 7	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	8	aux	_	AlignBegin=46850|AlignEnd=47632|Gloss=3Plur.Sub
@@ -533,7 +533,7 @@
 11	Bàhaushèː	Hausa	PROPN	_	Gender=Masc	9	obl:arg	_	AlignBegin=152171|AlignEnd=152684|Gloss=Hausa.Masc
 12	<	<	PUNCT	_	_	6	punct	_	AlignBegin=152684|AlignEnd=153197|Gloss=PUNCT
 13	tun	tun	ADP	_	_	14	case	_	AlignBegin=153197|AlignEnd=153710|Gloss=since
-14	zaman	zamn-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	obl	_	AlignBegin=153710|AlignEnd=154223|Gloss=stay.Vnoun.Cons.Masc
+14	zaman	zamn-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	obl:mod	_	AlignBegin=153710|AlignEnd=154223|Gloss=stay.Vnoun.Cons.Masc
 15	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	14	nmod	_	AlignBegin=154223|AlignEnd=154736|Gloss=world.Fem
 16	<	<	PUNCT	_	_	14	punct	_	AlignBegin=154736|AlignEnd=155249|Gloss=PUNCT
 17	dâmaː	dâmaː	ADV	_	_	20	advmod	_	AlignBegin=155249|AlignEnd=155762|Gloss=formerly
@@ -611,7 +611,7 @@
 2	dâːmaː	dâːmaː	ADV	_	_	1	advmod	_	AlignBegin=175395|AlignEnd=175670|Gloss=formerly
 3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=175945|AlignEnd=176220|Gloss=PUNCT
 4	cikin	cikin	ADP	_	_	5	case	_	AlignBegin=176220|AlignEnd=176495|Gloss=in
-5	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	9	obl	_	AlignBegin=176495|AlignEnd=176770|Gloss=world.Fem
+5	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	9	obl:mod	_	AlignBegin=176495|AlignEnd=176770|Gloss=world.Fem
 6	<	<	PUNCT	_	_	5	punct	_	AlignBegin=176770|AlignEnd=177045|Gloss=PUNCT
 7	Allàː	Allàː	PROPN	_	_	9	discourse	_	AlignBegin=177045|AlignEnd=177320|Gloss=God
 8	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	9	aux	_	AlignBegin=177320|AlignEnd=177595|Gloss=3Masc.PerfNeg
@@ -632,7 +632,7 @@
 2	dâːmaː	dâːmaː	ADV	_	_	9	advmod	_	AlignBegin=175395|AlignEnd=175670|Gloss=formerly
 3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=175945|AlignEnd=176220|Gloss=PUNCT
 4	cikin	cikin	ADP	_	_	5	case	_	AlignBegin=176220|AlignEnd=176495|Gloss=in
-5	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	9	obl	_	AlignBegin=176495|AlignEnd=176770|Gloss=world.Fem
+5	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	9	obl:mod	_	AlignBegin=176495|AlignEnd=176770|Gloss=world.Fem
 6	<	<	PUNCT	_	_	5	punct	_	AlignBegin=176770|AlignEnd=177045|Gloss=PUNCT
 7	Allàː	Allàː	PROPN	_	_	9	nsubj	_	AlignBegin=177045|AlignEnd=177320|Gloss=God
 8	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	9	aux	_	AlignBegin=177320|AlignEnd=177595|Gloss=3Masc.PerfNeg
@@ -809,7 +809,7 @@
 # text_en = Well, good warriors that they produced, among them, he saw that among those warriors, there were warriors who were going to be stronger than him.
 1	wàːtôː	wàːtôː	INTJ	_	_	13	discourse	_	AlignBegin=205660|AlignEnd=205967|Gloss=that_is
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=205967|AlignEnd=206274|Gloss=PUNCT
-3	zàːrùmmân	zaːrùmiː	NOUN	_	Definite=Cons|Number=Plur	13	obl	_	AlignBegin=206274|AlignEnd=206581|Gloss=brave.Plur.Cons
+3	zàːrùmmân	zaːrùmiː	NOUN	_	Definite=Cons|Number=Plur	13	obl:mod	_	AlignBegin=206274|AlignEnd=206581|Gloss=brave.Plur.Cons
 4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	3	det	_	AlignBegin=206581|AlignEnd=206888|Gloss=ProxH
 5	dà	dà	SCONJ	_	_	7	mark	_	AlignBegin=206888|AlignEnd=207195|Gloss=REL
 6	sukà	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	7	aux	_	AlignBegin=207195|AlignEnd=207502|Gloss=3Plur.Prog.Rel|Relative=Yes
@@ -822,7 +822,7 @@
 13	ga	gan-	VERB	_	_	0	root	_	AlignBegin=209344|AlignEnd=209651|Gloss=see
 14	cikin	cikin	ADP	_	_	16	case	_	AlignBegin=209651|AlignEnd=209958|Gloss=in
 15	su	su	DET	_	Number=Plur	16	det	_	AlignBegin=209651|AlignEnd=209958|Gloss=Plur
-16	zàːrùmmai	zaːrùmiː	NOUN	_	Number=Plur	18	obl	_	AlignBegin=209958|AlignEnd=210265|Gloss=brave.Plur
+16	zàːrùmmai	zaːrùmiː	NOUN	_	Number=Plur	18	obl:mod	_	AlignBegin=209958|AlignEnd=210265|Gloss=brave.Plur
 17	an	yaː	AUX	_	Aspect=Perf|Person=4	18	aux	_	AlignBegin=210265|AlignEnd=210572|Gloss=4.Perf
 18	sàːmu	saːm-	VERB	_	_	13	ccomp	_	AlignBegin=210572|AlignEnd=210879|Gloss=get
 19	zàːrùmmai	zaːrùmiː	NOUN	_	Number=Plur	18	obj	_	AlignBegin=210879|AlignEnd=211186|Gloss=brave.Plur
@@ -970,7 +970,7 @@
 # text = tôː loːkàcin dà sukà iːkòː ƙàːƙàː sukài ?//
 # text_en = Well, when they were governing, how were they?
 1	tôː	tôː	INTJ	_	_	6	discourse	_	AlignBegin=242090|AlignEnd=242342|Gloss=well
-2	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	6	obl	_	AlignBegin=242342|AlignEnd=242594|Gloss=time.Masc.Cons
+2	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	6	obl:mod	_	AlignBegin=242342|AlignEnd=242594|Gloss=time.Masc.Cons
 3	dà	dà	SCONJ	_	_	5	mark	_	AlignBegin=242594|AlignEnd=242846|Gloss=REL
 4	sukà	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	5	aux	_	AlignBegin=242846|AlignEnd=243098|Gloss=3Plur.Prog.Rel|Relative=Yes
 5	iːkòː	iːkòː	NOUN	_	Gender=Masc	2	acl:relcl	_	AlignBegin=243098|AlignEnd=243350|Gloss=power.Masc
@@ -1151,7 +1151,7 @@
 # text_ortho = rad dà kac cikà kwaːnaː tàlàːtin < kà koːmoː gidankà //
 # text = rad dà kac cikà kwaːnaː tàlàːtin < kà koːmoː gidankà //
 # text_en = After forty days, you would come back home.
-1	rad	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	9	obl	_	AlignBegin=278565|AlignEnd=278783|Gloss=day.Fem.Cons
+1	rad	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	9	obl:mod	_	AlignBegin=278565|AlignEnd=278783|Gloss=day.Fem.Cons
 2	dà	dà	SCONJ	_	_	4	mark	_	AlignBegin=278783|AlignEnd=279001|Gloss=REL
 3	kac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	4	aux	_	AlignBegin=279001|AlignEnd=279219|Gloss=2Masc.Perf.Rel|Relative=Yes
 4	cikà	cik-	VERB	_	_	1	acl:relcl	_	AlignBegin=279219|AlignEnd=279437|Gloss=complete
@@ -1217,12 +1217,12 @@
 # text_ortho = ɗan sarkiː sai shì îskeː ka |c shì ƙwaːcèː maː àbinkà |c shì baː kà káːshíː //
 # text = ɗan sarkiː sai shì îskeː ka |c shì ƙwaːcèː maː àbinkà |c shì baː kà káːshíː //
 # text_en = The king's son would come, take your property, and beat you.
-1	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	5	obl	_	AlignBegin=295240|AlignEnd=295452|Gloss=child.Masc.Cons
+1	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	5	obl:mod	_	AlignBegin=295240|AlignEnd=295452|Gloss=child.Masc.Cons
 2	sarkiː	sarkiː	NOUN	_	Gender=Masc	1	compound	_	AlignBegin=295452|AlignEnd=295664|Gloss=king.Masc
 3	sai	sai	ADV	_	_	5	advmod	_	AlignBegin=295664|AlignEnd=295876|Gloss=then
 4	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	5	aux	_	AlignBegin=295876|AlignEnd=296088|Gloss=3Masc.Sub
 5	îskeː	isk-	VERB	_	_	0	root	_	AlignBegin=296088|AlignEnd=296300|Gloss=find
-6	ka	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	5	obl	_	AlignBegin=296300|AlignEnd=296512|Gloss=2Masc
+6	ka	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	5	obl:mod	_	AlignBegin=296300|AlignEnd=296512|Gloss=2Masc
 7	|c	|c	PUNCT	_	_	9	punct	_	AlignBegin=296512|AlignEnd=296724|Gloss=PUNCT
 8	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	9	aux	_	AlignBegin=296724|AlignEnd=296936|Gloss=3Masc.Sub
 9	ƙwaːcèː	ƙwaːt-	VERB	_	_	5	conj	_	AlignBegin=296936|AlignEnd=297148|Gloss=seize
@@ -1369,7 +1369,7 @@
 2	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	3	aux	_	AlignBegin=319358|AlignEnd=319496|Gloss=2Masc.Sub
 3	isoː	is-	VERB	_	_	7	advcl	_	AlignBegin=319496|AlignEnd=319634|Gloss=arrive
 4	<	<	PUNCT	_	_	3	punct	_	AlignBegin=319634|AlignEnd=319772|Gloss=PUNCT
-5	dus	dukà	DET	_	ExtPos=PRON|PronType=Tot	7	obl	_	AlignBegin=319772|AlignEnd=319910|Gloss=all
+5	dus	dukà	DET	_	ExtPos=PRON|PronType=Tot	7	obl:mod	_	AlignBegin=319772|AlignEnd=319910|Gloss=all
 6	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	7	aux	_	AlignBegin=319910|AlignEnd=320048|Gloss=3Plur.Perf
 7	kaːc'èː	kaːts-	VERB	_	_	0	root	_	AlignBegin=320048|AlignEnd=320186|Gloss=wear_out
 8	//	//	PUNCT	_	_	7	punct	_	AlignBegin=320186|AlignEnd=320320|Gloss=PUNCT
@@ -1743,7 +1743,7 @@
 # text_ortho = mùtun yaː hi dàriː //
 # text = mùtun yaː hi dàriː //
 # text_en = People were more than a thousand.
-1	mùtun	mùtunèː	NOUN	_	Gender=Masc	3	obl	_	AlignBegin=396340|AlignEnd=396520|Gloss=human.Masc
+1	mùtun	mùtunèː	NOUN	_	Gender=Masc	3	obl:mod	_	AlignBegin=396340|AlignEnd=396520|Gloss=human.Masc
 2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	aux	_	AlignBegin=396520|AlignEnd=396700|Gloss=3Masc.Perf
 3	hi	fi	VERB	_	_	0	root	_	AlignBegin=396700|AlignEnd=396880|Gloss=exceed
 4	dàriː	dàriː	NUM	_	_	3	obj	_	AlignBegin=396880|AlignEnd=397060|Gloss=hundred
@@ -1773,7 +1773,7 @@
 # text = gàː naːkù aːràːyiː nân //= gàː na wàncéːnìyaː //
 # text_en = Our troup was here, over there was another one.
 1	gàː	gàː	PART	_	PartType=Pred	0	root	_	AlignBegin=400726|AlignEnd=401003|Gloss=here_is
-2	naːkù	naːkù	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	nmod	_	AlignBegin=401003|AlignEnd=401280|Gloss=2Plur.Gen
+2	naːkù	naːkù	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	nmod:poss	_	AlignBegin=401003|AlignEnd=401280|Gloss=2Plur.Gen
 3	aːràːyiː	aːràːyiː	NOUN	_	Gender=Masc	1	nsubj	_	AlignBegin=401280|AlignEnd=401557|Gloss=troup.Masc
 4	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	1	xcomp	_	AlignBegin=401557|AlignEnd=401834|Gloss=ProxS
 5	//=	//=	PUNCT	_	_	6	punct	_	AlignBegin=401834|AlignEnd=402111|Gloss=PUNCT
@@ -2092,7 +2092,7 @@
 # text_en = No, we did not stay long.
 1	aː'àː	aː'àː	INTJ	_	_	0	root	_	AlignBegin=449980|AlignEnd=450150|Gloss=no
 2	baːmù	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=1|Polarity=Neg	1	parataxis	_	AlignBegin=450150|AlignEnd=450320|Gloss=1Plur.ProgNeg
-3	daɗèːwaː	daɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	obl	_	AlignBegin=450320|AlignEnd=450490|Gloss=spend_time.Vnoun.Fem
+3	daɗèːwaː	daɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	obl:mod	_	AlignBegin=450320|AlignEnd=450490|Gloss=spend_time.Vnoun.Fem
 4	//	//	PUNCT	_	_	1	punct	_	AlignBegin=450490|AlignEnd=450660|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_01_131-131
@@ -2110,7 +2110,7 @@
 6	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	7	aux	_	AlignBegin=452738|AlignEnd=452931|Gloss=2Masc.Sub
 7	zakà	zak-	VERB	_	_	0	root	_	AlignBegin=452931|AlignEnd=453124|Gloss=arrive
 8	{	{	PUNCT	_	_	9	punct	_	AlignBegin=453124|AlignEnd=453317|Gloss=PUNCT
-9	watàː	watàː	NOUN	_	Gender=Masc	7	obl	_	AlignBegin=453317|AlignEnd=453510|Gloss=month.Masc
+9	watàː	watàː	NOUN	_	Gender=Masc	7	obl:mod	_	AlignBegin=453317|AlignEnd=453510|Gloss=month.Masc
 10	ukkù	ukkù	NUM	_	_	9	nummod	_	AlignBegin=453510|AlignEnd=453703|Gloss=three
 11	|c	|c	PUNCT	_	_	12	punct	_	AlignBegin=453703|AlignEnd=453896|Gloss=PUNCT
 12	watàː	watàː	NOUN	_	Gender=Masc	9	conj	_	AlignBegin=453896|AlignEnd=454089|Gloss=month.Masc
@@ -2146,7 +2146,7 @@
 # text = kuma lòːkacìn nan < gida baːbù wàhalà' àbincîː //= baːbù wàhalàd duːkìyaː //= baːbù wàhalàn noːnoː //= baːbù wàhalàk koːmiː //
 # text_en = And at that time, at home, there was no lack of food, no cattle disease, no lack of milk, no problem at all.
 1	kuma	kuma	CCONJ	_	_	6	discourse	_	AlignBegin=460776|AlignEnd=461224|Gloss=also
-2	lòːkacìn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	6	obl	_	AlignBegin=461224|AlignEnd=461672|Gloss=time.Masc.Cons
+2	lòːkacìn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	6	obl:mod	_	AlignBegin=461224|AlignEnd=461672|Gloss=time.Masc.Cons
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	AlignBegin=461672|AlignEnd=462120|Gloss=ProxH
 4	<	<	PUNCT	_	_	2	punct	_	AlignBegin=462120|AlignEnd=462568|Gloss=PUNCT
 5	gida	gida	ADV	_	_	6	advmod	_	AlignBegin=462568|AlignEnd=463016|Gloss=at_home

@@ -53,9 +53,9 @@
 11	am	neː	AUX	_	_	12	cop	_	AlignBegin=88168|AlignEnd=88440|Copula=Yes|Gloss=Ident.Rel|Relative=Yes
 12	màːlìye	maːliy-	VERB	_	ExtPos=ADV|VerbForm=Part	9	acl:relcl	_	AlignBegin=88440|AlignEnd=88712|Gloss=suckle.Part
 13	gàreː	gàreː	ADP	_	_	14	case	_	AlignBegin=88712|AlignEnd=88984|Gloss=by
-14	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	12	obl	_	AlignBegin=88984|AlignEnd=89256|Gloss=3Fem
+14	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	12	obl:mod	_	AlignBegin=88984|AlignEnd=89256|Gloss=3Fem
 15	<	<	PUNCT	_	_	2	punct	_	AlignBegin=89256|AlignEnd=89528|Gloss=PUNCT
-16	dut	dukà	DET	_	ExtPos=PRON|PronType=Tot	18	obl	_	AlignBegin=89528|AlignEnd=89800|Gloss=all
+16	dut	dukà	DET	_	ExtPos=PRON|PronType=Tot	18	obl:mod	_	AlignBegin=89528|AlignEnd=89800|Gloss=all
 17	taj	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	aux	_	AlignBegin=89800|AlignEnd=90072|Gloss=3Fem.Perf.Rel|Relative=Yes
 18	jiːɗoː	jiːɗ-	VERB	_	_	0	root	_	AlignBegin=90072|AlignEnd=90344|Gloss=come_down
 19	dà	dà	ADP	_	_	20	case	_	AlignBegin=90344|AlignEnd=90616|Gloss=with
@@ -73,7 +73,7 @@
 3	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=101600|AlignEnd=101770|Gloss=say
 4	[	[	PUNCT	_	_	10	punct	_	AlignBegin=101770|AlignEnd=101940|Gloss=PUNCT
 5	cikin	cikin	ADP	_	_	6	case	_	AlignBegin=101940|AlignEnd=102110|Gloss=in
-6	mutàːnên	mùtunèː	NOUN	_	Definite=Cons|Number=Plur	10	obl	_	AlignBegin=102110|AlignEnd=102280|Gloss=human.Plur.Cons
+6	mutàːnên	mùtunèː	NOUN	_	Definite=Cons|Number=Plur	10	obl:mod	_	AlignBegin=102110|AlignEnd=102280|Gloss=human.Plur.Cons
 7	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	6	det	_	AlignBegin=102280|AlignEnd=102450|Gloss=ProxS
 8	huɗu	huɗu	NUM	_	_	6	nummod	_	AlignBegin=102450|AlignEnd=102620|Gloss=four
 9	<	<	PUNCT	_	_	6	punct	_	AlignBegin=102620|AlignEnd=102790|Gloss=PUNCT
@@ -81,7 +81,7 @@
 11	naː	neː	AUX	_	_	10	cop	_	AlignBegin=102960|AlignEnd=103130|Copula=Yes|Gloss=Ident
 12	yah	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	13	aux	_	AlignBegin=103130|AlignEnd=103300|Gloss=3Masc.Perf.Rel|Relative=Yes
 13	hi	fi	VERB	_	_	10	advcl:cleft	_	AlignBegin=103300|AlignEnd=103470|Gloss=exceed
-14	àbin	àbiː	NOUN	_	Definite=Cons|Gender=Masc	13	obl	_	AlignBegin=103470|AlignEnd=103640|Gloss=thing.Masc.Cons
+14	àbin	àbiː	NOUN	_	Definite=Cons|Gender=Masc	13	obl:mod	_	AlignBegin=103470|AlignEnd=103640|Gloss=thing.Masc.Cons
 15	màːmaːkiː	màːmaːkiː	NOUN	_	_	14	nmod	_	AlignBegin=103640|AlignEnd=103810|Gloss=wondering
 16	?//]	?//]	PUNCT	_	_	10	punct	_	AlignBegin=103810|AlignEnd=103980|Gloss=PUNCT
 17	//	//	PUNCT	_	_	3	punct	_	AlignBegin=103810|AlignEnd=103980|Gloss=PUNCT
@@ -138,7 +138,7 @@
 6	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	7	aux	_	AlignBegin=18114|AlignEnd=18288|Copula=Yes|Gloss=3Plur.Prog|wordform=su
 7	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	4	conj	_	AlignBegin=18288|AlignEnd=18462|Gloss=ProxH
 8	<	<	PUNCT	_	_	4	punct	_	AlignBegin=18462|AlignEnd=18636|Gloss=PUNCT
-9	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	13	obl	_	AlignBegin=18636|AlignEnd=18810|Gloss=day.Fem.Cons
+9	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	13	obl:mod	_	AlignBegin=18636|AlignEnd=18810|Gloss=day.Fem.Cons
 10	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	9	det	_	AlignBegin=18810|AlignEnd=18984|Gloss=ProxH
 11	sai	sai	ADV	_	_	13	advmod	_	AlignBegin=18984|AlignEnd=19158|Gloss=until
 12	ankà	yaː	AUX	_	Aspect=Perf|Person=4	13	aux	_	AlignBegin=19158|AlignEnd=19332|Gloss=4.Perf.Rel|Relative=Yes
@@ -180,7 +180,7 @@
 6	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	7	aux	_	AlignBegin=24955|AlignEnd=25103|Gloss=3Fem.Perf
 7	daɗèː	daɗ-	VERB	_	_	0	root	_	AlignBegin=25103|AlignEnd=25251|Gloss=spend_time
 8	dà	dà	ADP	_	_	9	case	_	AlignBegin=25251|AlignEnd=25399|Gloss=with
-9	ɓacèːwaː	ɓat-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	7	obl	_	AlignBegin=25399|AlignEnd=25547|Gloss=get_lost.Vnoun.Fem
+9	ɓacèːwaː	ɓat-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	7	obl:mod	_	AlignBegin=25399|AlignEnd=25547|Gloss=get_lost.Vnoun.Fem
 10	//	//	PUNCT	_	_	7	punct	_	AlignBegin=25547|AlignEnd=25700|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_03_GMH_07-07
@@ -310,7 +310,7 @@
 11	ankà	yaː	AUX	_	Aspect=Perf|Person=4	12	aux	_	AlignBegin=46270|AlignEnd=46459|Gloss=4.Perf.Rel|Relative=Yes
 12	cèː	cêː	VERB	_	_	3	conj	_	AlignBegin=46459|AlignEnd=46648|Gloss=say
 13	[	[	PUNCT	_	_	24	punct	_	AlignBegin=46648|AlignEnd=46837|Gloss=PUNCT
-14	wurîn	wuriː	NOUN	_	Definite=Cons|Gender=Masc	24	obl	_	AlignBegin=46837|AlignEnd=47026|Gloss=place.Masc.Cons
+14	wurîn	wuriː	NOUN	_	Definite=Cons|Gender=Masc	24	obl:mod	_	AlignBegin=46837|AlignEnd=47026|Gloss=place.Masc.Cons
 15	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	14	det	_	AlignBegin=47026|AlignEnd=47215|Gloss=ProxS
 16	<	<	PUNCT	_	_	14	punct	_	AlignBegin=47215|AlignEnd=47404|Gloss=PUNCT
 17	dàn	dàk	ADP	_	_	18	case	_	AlignBegin=47404|AlignEnd=47593|Gloss=from
@@ -343,7 +343,7 @@
 6	<	<	PUNCT	_	_	1	punct	_	AlignBegin=50289|AlignEnd=50444|Gloss=PUNCT
 7	àmmaː	àmmaː	CCONJ	_	_	13	cc	_	AlignBegin=50444|AlignEnd=50599|Gloss=but
 8	dàw	dàk	ADP	_	_	9	case	_	AlignBegin=50599|AlignEnd=50754|Gloss=from
-9	wurîn	wuriː	NOUN	_	Definite=Cons|Gender=Masc	13	obl	_	AlignBegin=50754|AlignEnd=50909|Gloss=place.Masc.Cons
+9	wurîn	wuriː	NOUN	_	Definite=Cons|Gender=Masc	13	obl:mod	_	AlignBegin=50754|AlignEnd=50909|Gloss=place.Masc.Cons
 10	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	9	det	_	AlignBegin=50909|AlignEnd=51064|Gloss=ProxS
 11	<	<	PUNCT	_	_	9	punct	_	AlignBegin=51064|AlignEnd=51219|Gloss=PUNCT
 12	bàtà	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Polarity=Neg	13	aux	_	AlignBegin=51219|AlignEnd=51374|Gloss=3Fem.PerfNeg
@@ -538,7 +538,7 @@
 9	kòːgôn	kòːgoː	NOUN	_	Definite=Def|Gender=Masc	8	obj	_	AlignBegin=98140|AlignEnd=98335|Gloss=stone.Cons.Def
 10	akaihwaː	akaihwaː	NOUN	_	Gender=Fem	8	obl	_	AlignBegin=98335|AlignEnd=98530|Gloss=nail.Fem
 11	|c	|c	PUNCT	_	_	15	punct	_	AlignBegin=98530|AlignEnd=98725|Gloss=PUNCT
-12	duy	dukà	DET	_	ExtPos=PRON|PronType=Tot	15	obl	_	AlignBegin=98725|AlignEnd=98920|Gloss=all
+12	duy	dukà	DET	_	ExtPos=PRON|PronType=Tot	15	obl:mod	_	AlignBegin=98725|AlignEnd=98920|Gloss=all
 13	<	<	PUNCT	_	_	12	punct	_	AlignBegin=98920|AlignEnd=99115|Gloss=PUNCT
 14	yas	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	15	aux	_	AlignBegin=99115|AlignEnd=99310|Gloss=3Masc.Perf.Rel|Relative=Yes
 15	sarɓìkkeː	sarɓ-	VERB	_	_	8	conj	_	AlignBegin=99310|AlignEnd=99505|Gloss=knock_down
