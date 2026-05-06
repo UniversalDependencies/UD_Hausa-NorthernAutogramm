@@ -1,0 +1,15 @@
+{
+  "ha_northernautogramm-ud-test": [
+    {
+      "document_ids": [
+        "HAUA_BC_DIAL_01",
+        "HAUA_BC_DIAL_02",
+        "HAUA_BC_NARR_01_KA",
+        "HAUA_BC_NARR_02_GKB",
+        "HAUA_BC_NARR_03_GMH",
+        "HAUA_BC_NARR_04_GYM",
+        "HAUA_BC_NARR_06_Dikko"
+      ]
+    }
+  ]
+}
