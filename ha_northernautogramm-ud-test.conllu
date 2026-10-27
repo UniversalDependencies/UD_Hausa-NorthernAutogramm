@@ -7415,7 +7415,7 @@
 1	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	AlignBegin=361911|AlignEnd=362178|Gloss=3Masc.Prog
 2-3	tai	_	_	_	_	_	_	_	_
 2	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	1	compound:prt	_	AlignBegin=362178|AlignEnd=362445|Gloss=Iter
-3	yi	yi	VERB	_	_	1	dep	_	AlignBegin=362178|AlignEnd=362445|Gloss=do
+3	yi	yi	VERB	_	_	1	ccomp	_	AlignBegin=362178|AlignEnd=362445|Gloss=do
 4	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	3	iobj	_	AlignBegin=362445|AlignEnd=362712|Gloss=3Masc.Ben
 5	askìn	askìː	NOUN	_	Definite=Cons|Gender=Masc	3	xcomp	_	AlignBegin=362712|AlignEnd=362979|Gloss=shaving.Masc.Cons
 6	geːmèː	geːmèː	NOUN	_	Gender=Masc	5	nmod	_	AlignBegin=362979|AlignEnd=363246|Gloss=beard.Masc
@@ -7423,7 +7423,7 @@
 8	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	1	conj	_	AlignBegin=363513|AlignEnd=363780|Gloss=3Masc.Prog
 9-10	tai	_	_	_	_	_	_	_	_
 9	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	8	compound:prt	_	AlignBegin=363780|AlignEnd=364047|Gloss=Iter
-10	yi	yi	VERB	_	_	8	dep	_	AlignBegin=363780|AlignEnd=364047|Gloss=do
+10	yi	yi	VERB	_	_	8	ccomp	_	AlignBegin=363780|AlignEnd=364047|Gloss=do
 11	mà	mà	ADP	_	Case=Dat	12	case	_	AlignBegin=364047|AlignEnd=364314|Gloss=Dat
 12	Dòːdoː	Dòːdoː	PROPN	_	_	10	obl:arg	_	AlignBegin=364314|AlignEnd=364581|Gloss=Dodo|wordform=dòːdoː
 13	askìn	askìː	NOUN	_	Definite=Cons|Gender=Masc	10	xcomp	_	AlignBegin=364581|AlignEnd=364848|Gloss=shaving.Masc.Cons
@@ -23150,7 +23150,7 @@
 3	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 4	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	ccomp	_	Gloss=1Sing.Nom
 5	nàː	neː	AUX	_	_	4	cop	_	Copula=Yes|Gloss=Ident
-6	Garbaː	Garbaː	PROPN	_	_	8	reparandum	_	Gloss=Garbaː
+6	Garbaː	Garbaː	PROPN	_	_	11	reparandum	_	Gloss=Garbaː
 7	Dikkò	Dikkò	PROPN	_	_	6	flat:name	_	Gloss=Dikkò
 8	Garbà	Garbà	PROPN	_	_	11	reparandum	_	Gloss=Garbà
 9	Ɗiɗìː	ɗiɗìː	PROPN	_	Gender=Masc	8	flat:name	_	Gloss=Ɗiɗìː|SpaceAfter=No
