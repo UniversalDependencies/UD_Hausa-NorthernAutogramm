@@ -103,12 +103,12 @@
     <dep name="case">559</dep>
     <dep name="cc">110</dep>
     <dep name="cc:preconj">11</dep>
-    <dep name="ccomp">310</dep>
+    <dep name="ccomp">312</dep>
     <dep name="compound">138</dep>
     <dep name="compound:prt">54</dep>
     <dep name="conj">294</dep>
     <dep name="cop">84</dep>
-    <dep name="dep">133</dep>
+    <dep name="dep">131</dep>
     <dep name="det">283</dep>
     <dep name="discourse">433</dep>
     <dep name="dislocated">246</dep>
