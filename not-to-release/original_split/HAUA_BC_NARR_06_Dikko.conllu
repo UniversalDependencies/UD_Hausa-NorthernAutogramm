@@ -15613,7 +15613,7 @@
 3	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 4	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	ccomp	_	Gloss=1Sing.Nom
 5	nàː	neː	AUX	_	_	4	cop	_	Copula=Yes|Gloss=Ident
-6	Garbaː	Garbaː	PROPN	_	_	8	reparandum	_	Gloss=Garbaː
+6	Garbaː	Garbaː	PROPN	_	_	11	reparandum	_	Gloss=Garbaː
 7	Dikkò	Dikkò	PROPN	_	_	6	flat:name	_	Gloss=Dikkò
 8	Garbà	Garbà	PROPN	_	_	11	reparandum	_	Gloss=Garbà
 9	Ɗiɗìː	ɗiɗìː	PROPN	_	Gender=Masc	8	flat:name	_	Gloss=Ɗiɗìː|SpaceAfter=No
